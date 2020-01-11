@@ -17,4 +17,4 @@
 
 ##### Stable: Yes
 
-##### (The concept is get from: https://www.geeksforgeeks.org/bubble-sort/)
+##### (The concept is from: https://www.geeksforgeeks.org/bubble-sort/)
